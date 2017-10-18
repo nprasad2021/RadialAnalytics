@@ -9,5 +9,5 @@
 
 ## How to interpret
 
-* "outcome.csv" is the output file
+* Output file will be regenerated
 * Extra credit correlations are printed onto terminal
