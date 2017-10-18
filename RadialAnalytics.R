@@ -27,7 +27,7 @@ output <- summarise(modData,
 
 ## Arrange data
 outcome <- arrange(output, desc(numHospitals))
-write.csv(outcome, file="outcome.csv")
+write.csv(outcome, file="hospitals_by_county.csv")
 
 #Extra Credit
 
